@@ -14,6 +14,7 @@ Because links on the internet are unreliable and subject to change or deletion, 
 Additionally, I have included disk images for DOS 6.22 and a supplemental disk so you can have an appropriate operating system.  
 
 I owuld have liked to include the manual for the 2402A as well, but it is larger than the 25MB file size limit.  So, here are two links to that manual:
+
 http://www.ko4bb.com/getsimple/index.php?id=download&file=Tektronix/Tektronix_Miscelaneous/Tek_Copyright_Release.pdf
 http://www.ko4bb.com/manuals/24.91.55.234/Tek_2402A_Tekmate_Manual.pdf
 http://w140.com/tekwiki/images/6/6e/070-7860-00.pdf
