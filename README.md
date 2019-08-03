@@ -10,7 +10,7 @@ To make it easy to find, here is a link to the PDF on the upgrade:
 
 https://github.com/Tek-User/Upgrading-The-Tektronix-2402/blob/master/Upgrading%20the%20Tektronix%202402.pdf
 
-Because links on the internet are unreliable and subject to change or deletion, I have collected a number of useful items for the 2402/2402A here: manuals on the Ampro LittleBoard/296, and the Versalogic VSBC-2 board, as well as the now public domain Borland Turno-C V3.0 that I used to do programming for the 2402 on the 2402.  If you are going to use a vintage computer it is probably best to use a programming environment that was designed FOR that hardware.
+Because links on the internet are unreliable and subject to change or deletion, I have collected a number of useful items for the 2402/2402A here: manuals on the Ampro LittleBoard/296, and the Versalogic VSBC-2 board, as well as the now public domain Borland Turbo-C V3.0 that I used to do programming for the 2402, on the 2402.  If you are going to use a vintage computer it is probably best to use a programming environment that was designed FOR that hardware.
 
 Additionally, I have included disk images for DOS 6.22 and a supplemental disk so you can have an appropriate operating system.  
 
