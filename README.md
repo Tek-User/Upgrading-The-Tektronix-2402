@@ -1,5 +1,6 @@
 # Upgrading-The-Tektronix-2402
-<a href="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/IMG_3033.JPG"><img src="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/IMG_3033.JPG" width="500px"><br/></a>
+<a href="https://github.com/Tek-User/Upgrading-The_Tektronix-2402/blob/master/_DSC6806.JPG"><img src="https://github.com/Tek-User/Upgrading-The_Tektronix-2402/blob/master/_DSC6806.JPG" width="500px"><br/></a>
+
 
 Information on upgrading the Tektronix Telmate 2402 and 2402A
 
