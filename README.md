@@ -18,7 +18,6 @@ I would have liked to include the manual for the 2402A as well, but it is larger
 
 http://www.ko4bb.com/getsimple/index.php?id=download&file=Tektronix/Tektronix_Miscelaneous/Tek_Copyright_Release.pdf
 
-http://www.ko4bb.com/manuals/24.91.55.234/Tek_2402A_Tekmate_Manual.pdf
 
 http://www.ko4bb.com/getsimple/index.php?id=download&file=Tektronix/Tektronix_Miscelaneous/Tek_2402A_Tekmate_Manual.pdf
 
